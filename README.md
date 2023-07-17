@@ -13,8 +13,10 @@ Crear test con cypress.io donde para validar las distintas funcionalidades de es
 3 - Comprobar que funcione el buscador "jump to" (sidebar) hacer una busqueda de "Create transaction"
 4 - Comprobar que funcione el buscador del header buscando "Authentication"
 
-Subir el ejercicio a github y compartir el link.
 
 ## Ejercicio 2
 
 1 - Desarrollar los criterios de aceptación para las funcionalidades del ejercicio 1.
+
+
+Subir el ejercicio a github y compartir el link.
